@@ -1,6 +1,6 @@
 # 师门 AI 周刊：第 1 期 
 
-这里记录每周 [Simen 师门](https://simen.ai/) 中Agent 的实践，每周五发布。
+展示 [Simen 师门](https://simen.ai/) 每周 Agent 的探索与实践，固定周五更新。
 
 ## 本期话题：图片转表格
 
