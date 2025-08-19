@@ -13,7 +13,7 @@
 
 根据图片内容，整理成excel表格。第一列姓名，第二列出勤次数。单元格打勾部分即视为出勤，如果单元格为空或者其他符号，则视为未出勤
 
-http://mini.file.simen.site/upload/docs/bonnie-excel-case-01-cn.mp4
+https://mini.file.simen.site/upload/docs/bonnie-excel-case-01-cn.mp4
 
 
 
