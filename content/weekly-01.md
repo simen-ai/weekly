@@ -9,12 +9,12 @@
 文波会利用大模型视觉能力将图片转换为表格，效果好，速度快，价格便宜。
 
 
+
 1. 整理大学课堂签到表
 
 根据图片内容，整理成excel表格。第一列姓名，第二列出勤次数。单元格打勾部分即视为出勤，如果单元格为空或者其他符号，则视为未出勤
 
-<video src="https://mini.file.simen.site/upload/docs/bonnie-excel-case-01-cn.mp4" autoplay loop muted playsinline width="100%"></video>
-
+https://github.com/user-attachments/assets/80ab9090-df48-4eb6-8035-4d8ecd1df287
 
 
 
