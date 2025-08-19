@@ -11,24 +11,9 @@
 
 1. 整理大学课堂签到表
 
-![](https://cdn.beekka.com/blogimg/asset/202508/bg2025081404.webp)
-
-
-```
 根据图片内容，整理成excel表格。第一列姓名，第二列出勤次数。单元格打勾部分即视为出勤，如果单元格为空或者其他符号，则视为未出勤
-```
 
-<video
-    autoPlay
-    muted
-    loop
-    playsInline
-    controls
-    className="w-full aspect-video rounded-xl"
-    src="http://mini.file.simen.site/upload/docs/bonnie-excel-case-01-cn.mp4"
-  ></video>
-
-
+http://mini.file.simen.site/upload/docs/bonnie-excel-case-01-cn.mp4
 
 
 
